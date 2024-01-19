@@ -1,0 +1,13 @@
+
+QMainWindow {
+    background-color: rgb(206, 176, 84);
+}
+
+QListView {
+    background-color: transparent;
+    border: none;
+}
+
+#LogPage {
+    background-color: rgb(236, 226, 192);
+}
